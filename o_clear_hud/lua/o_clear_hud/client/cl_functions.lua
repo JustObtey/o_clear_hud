@@ -1,3 +1,9 @@
+-- [[
+
+		Addon made by TheObtey
+	https://steamcommunity.com/id/justobtey/
+-- ]]
+
 OCLEARHUD.Fonts = {}
 
 -- Automatic responsive functions
