@@ -1,8 +1,9 @@
--- [[
+--[[
 
 		Addon made by TheObtey
 	https://steamcommunity.com/id/justobtey/
--- ]]
+
+--]]
 
 scrw = ScrW()
 scrh = ScrH()
