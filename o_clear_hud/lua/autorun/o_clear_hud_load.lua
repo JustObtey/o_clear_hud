@@ -1,3 +1,12 @@
+--[[
+
+		Addon made by TheObtey
+	https://steamcommunity.com/id/justobtey/
+
+Folders and loader have been automatically created by gcreator (github.com/wasied)
+
+--]]
+
 OCLEARHUD = {}
 
 -- Make loading functions
